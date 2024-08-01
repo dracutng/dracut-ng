@@ -11,8 +11,8 @@ Will Woods <wwoods@redhat.com>
 Philippe Seewer <philippe.seewer@bfh.ch>
 Warren Togami <wtogami@redhat.com>
 Benjamin Drung <benjamin.drung@canonical.com>
-Dave Young <dyoung@redhat.com>
 Martin Wilck <mwilck@suse.de>
+Dave Young <dyoung@redhat.com>
 Jeremy Katz <katzj@redhat.com>
 Lukas Nykryn <lnykryn@redhat.com>
 David Dillow <dave@thedillows.org>
@@ -30,16 +30,17 @@ Jonathan Lebon <jonathan@jlebon.com>
 Steffen Maier <maier@linux.ibm.com>
 WANG Chao <chaowang@redhat.com>
 David Tardon <dtardon@redhat.com>
+Pavel Valena <pvalena@redhat.com>
 Yu Watanabe <watanabe.yu+github@gmail.com>
 Andrey Borzenkov <arvidjaar@gmail.com>
 David Disseldorp <ddiss@suse.de>
 Frantisek Sumsal <frantisek@sumsal.cz>
-Pavel Valena <pvalena@redhat.com>
 Peter Robinson <pbrobinson@fedoraproject.org>
 Thomas Blume <thomas.blume@suse.com>
 Brian C. Lane <bcl@redhat.com>
 Hans de Goede <hdegoede@redhat.com>
 Peter Jones <pjones@redhat.com>
+dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
 Andreas Thienemann <andreas@bawue.net>
 Andrew Ammerlaan <andrewammerlaan@gentoo.org>
 Marcos Mello <marcosfrm@gmail.com>
@@ -57,9 +58,9 @@ Xunlei Pang <xlpang@redhat.com>
 Daniel Drake <drake@endlessm.com>
 David Teigland <teigland@redhat.com>
 Kairui Song <kasong@tencent.com>
+Mike Gilbert <floppym@gentoo.org>
 Angelo "pallotron" Failla <pallotron@fb.com>
 Dan Horák <dhorak@redhat.com>
-Mike Gilbert <floppym@gentoo.org>
 Ville Skyttä <ville.skytta@iki.fi>
 Adrien Thierry <athierry@redhat.com>
 Böszörményi Zoltán <zboszor@pr.hu>
@@ -103,6 +104,7 @@ Stefan Reimer <it@startux.de>
 Takashi Iwai <tiwai@suse.de>
 Tony Asleson <tasleson@redhat.com>
 Zoltán Böszörményi <zboszor@gmail.com>
+dracutng[bot] <dracutng@gombos.dev>
 Alper Nebi Yasak <alpernebiyasak@gmail.com>
 Anton Blanchard <anton@samba.org>
 Bill Nottingham <notting@redhat.com>
@@ -123,6 +125,7 @@ Matthias Gerstner <matthias.gerstner@suse.de>
 Max Resch <resch.max@gmail.com>
 Michael Ploujnikov <plouj@somanetworks.com>
 Michal Koutný <mkoutny@suse.com>
+Neal Gompa <neal@gompa.dev>
 Nicolas Porcel <nicolasporcel06@gmail.com>
 Pratyush Anand <panand@redhat.com>
 Sam James <sam@gentoo.org>
@@ -185,7 +188,6 @@ Marko Myllynen <myllynen@redhat.com>
 Matthew Thode <mthode@mthode.org>
 Mike Snitzer <snitzer@redhat.com>
 Minfei Huang <mhuang@redhat.com>
-Neal Gompa <neal@gompa.dev>
 Nikoli <nikoli@gmx.us>
 Patrick Talbert <ptalbert@redhat.com>
 Pedro Monreal <pmgdeb@gmail.com>

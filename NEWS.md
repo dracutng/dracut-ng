@@ -1,5 +1,40 @@
 [Rendered view](https://github.com/dracut-ng/dracut-ng/blob/master/NEWS.md)
 
+dracut-ng-104
+=============
+
+#### Bug Fixes
+
+* **Makefile:**  install dracut config examples under /usr ([0d369e3e](https://github.com/dracut-ng/dracut-ng/commit/0d369e3e30935dffe48dfff1e90463868e7f804a))
+* **busybox:**
+  *  install busybox symlinks later in the generation process ([4e78a870](https://github.com/dracut-ng/dracut-ng/commit/4e78a8705e19562f5659e352612e50905c4be12a))
+  *  install busybox symlinks manually ([95ba0327](https://github.com/dracut-ng/dracut-ng/commit/95ba03270eb3297103cba276c2925ecc1b762926))
+* **dracut:**  re-enable extended attributes in containers ([c964a56f](https://github.com/dracut-ng/dracut-ng/commit/c964a56fde168212422fdf37ecb835dfe409f4a7))
+* **lsinitrd:**  check skipcpio file directly ([2815f021](https://github.com/dracut-ng/dracut-ng/commit/2815f021fd7947364c4344da479803983ffaba25))
+* **man:**  update description of the --gzip option ([206b5448](https://github.com/dracut-ng/dracut-ng/commit/206b54481ccc031763714052545c6e7779ea3c5e))
+* **multipath:**  include module with "find_multipaths strict" ([1e802f15](https://github.com/dracut-ng/dracut-ng/commit/1e802f15fee3d6402d83e0efefef8bb88c5a33e3))
+* **release:**  improve commit message ([267d002c](https://github.com/dracut-ng/dracut-ng/commit/267d002cbb63a59d47a2d7273d62757f9763b4d2))
+* **systemd:**  move installation of libkmod to udev-rules module ([ef0972fe](https://github.com/dracut-ng/dracut-ng/commit/ef0972fe5349bdf6e821cb79a47cf412caf99059))
+* **watchdog:**  change the priority of watchdog kernel modules ([0097ded1](https://github.com/dracut-ng/dracut-ng/commit/0097ded1de21f8a7f9453a5e1c03195f985a053f))
+
+#### Features
+
+*   add common config when networking is not desired ([9ffabd59](https://github.com/dracut-ng/dracut-ng/commit/9ffabd5916605be5052faa1256f29feafbc83b1e))
+* **busybox:**  use busybox --install to install itself ([3975e26a](https://github.com/dracut-ng/dracut-ng/commit/3975e26a84cd8645b15d0a863263a63da93650e0))
+* **pcmcia:**  only include when another module requires it ([ea4199b3](https://github.com/dracut-ng/dracut-ng/commit/ea4199b38c097fa4dc059dd52740af91111145b5))
+* **shell-interpreter:**  meta package for improved shell selection ([e1fcfe64](https://github.com/dracut-ng/dracut-ng/commit/e1fcfe64fb439ae71fc6babcaac3c6bc834b00a9))
+
+#### Contributors
+
+- Laszlo Gombos <laszlo.gombos@gmail.com>
+- Antonio Alvarez Feijoo <antonio.feijoo@suse.com>
+- Alexander Tsoy <alexander@tsoy.me>
+- Martin Wilck <mwilck@suse.de>
+- Mike Gilbert <floppym@gentoo.org>
+- Neal Gompa <neal@gompa.dev>
+- Pavel Valena <pvalena@redhat.com>
+- dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+
 dracut-ng-103
 =============
 
