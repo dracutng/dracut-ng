@@ -1,5 +1,22 @@
 [Rendered view](https://github.com/dracut-ng/dracut-ng/blob/master/NEWS.md)
 
+dracut-ng-105
+=============
+
+#### Bug Fixes
+
+* **dmsquash-live:**  checkisomd5 is installed into /usr/bin ([39887041](https://github.com/dracut-ng/dracut-ng/commit/398870413e98d85a574b06ca69e8613a1ac209be))
+* **man:**
+  *  use US English spelling for initialization ([c12a018e](https://github.com/dracut-ng/dracut-ng/commit/c12a018eb89febfa550d478a97d4bfbdd39bda90))
+  *  correct spelling of initramfs ([b5ada6cc](https://github.com/dracut-ng/dracut-ng/commit/b5ada6ccb618eec005f01b40a9f94eb149ff5b3d))
+* **systemd:**  remove typo from the dracut module name ([7d998705](https://github.com/dracut-ng/dracut-ng/commit/7d998705e15949dd4d62d2af9ae35171316b7ca5))
+* **udev-rules:**  move relevant rules from systemd ([1ef30c83](https://github.com/dracut-ng/dracut-ng/commit/1ef30c832f4a0b6e82b85fd6576057eae22f8d41))
+
+#### Contributors
+
+- Jo Zzsi <jozzsicsataban@gmail.com>
+- Benjamin Drung <benjamin.drung@canonical.com>
+
 dracut-ng-104
 =============
 
